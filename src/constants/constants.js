@@ -52,7 +52,7 @@ export const TechnologiesData = [
   "Javascript",
   "Typescript",
   "Nodejs",
-  "Python",
+  // "Python",
   "HTML5",
   "CSS3",
   "SQL",
