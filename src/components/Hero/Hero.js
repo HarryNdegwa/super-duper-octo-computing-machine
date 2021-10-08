@@ -16,7 +16,7 @@ const Hero = () => (
         <SectionText>
           I am Harrison Ndegwa, a passionate full stack software developer
           currently based in Nairobi,Kenya. My expertise is in developing rich
-          web UIs and their backend logic using latest web technologies.
+          web UIs and their backend functionality using latest web technologies.
         </SectionText>
       </LeftSection>
     </Section>
