@@ -52,7 +52,7 @@ export const TechnologiesData = [
   "Javascript",
   "Typescript",
   "Nodejs",
-  // "Python",
+  "Python",
   "HTML5",
   "CSS3",
   "SQL",
@@ -61,4 +61,6 @@ export const TechnologiesData = [
   "GraphQL",
   "Bootstrap",
   "Ubuntu",
+  "CI/CD (CircleCI)",
+  "Docker",
 ];
