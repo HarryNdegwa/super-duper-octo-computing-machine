@@ -43,7 +43,7 @@ const Header = () => (
         <Icon icon="akar-icons:github-fill" style={{ fontSize: "30px" }} />
       </SocialIcons>
       <SocialIcons
-        href="https://www.linkedin.com/in/harrison-ndegwa-656035188/"
+        href="https://www.linkedin.com/in/harryndegwa/"
         target="_blank"
       >
         <Icon icon="brandico:linkedin-rect" style={{ fontSize: "30px" }} />
