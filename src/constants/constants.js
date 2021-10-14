@@ -61,6 +61,6 @@ export const TechnologiesData = [
   // "GraphQL",
   "Bootstrap",
   "Ubuntu",
-  "CI/CD (CircleCI)",
+  "CI/CD",
   "Docker",
 ];
