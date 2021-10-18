@@ -58,7 +58,7 @@ export const TechnologiesData = [
   "SQL",
   "PostgreSQL",
   "Redux",
-  // "GraphQL",
+"GraphQL",
   "Bootstrap",
   "Ubuntu",
   "CI/CD",
