@@ -20,24 +20,24 @@ export const projects = [
     id: 0,
   },
   {
-    title: "Instadriver",
-    description:
-      "Instadriver AKA Linkedin for Drivers. Drivers can create accounts and post their job cards as employers shortlist and recruit them. Employers create accounts where they can post vacancy ads and shortlist drivers.",
-    image: "/images/insta.png",
-    tags: ["React", "Nodejs", "Nestjs", "MongoDB"],
-    source: false,
-    visit: "https://instadriver.co/",
-    id: 2,
-  },
-  {
-    title: "Hailers",
+    title: "Fleetsimplify",
     description:
       "This platform enables you to send an application expressing interest for your car to be used in the gig economy. You can also do the calculation on how much your car will earn using the inbuilt calculator.",
     image: "/images/hailers.png",
     tags: ["React", "Nodejs", "Redux"],
     source: false,
-    visit: "https://hailers.co/",
+    visit: "https://fleetsimplify.com/",
     id: 3,
+  },
+  {
+    title: "Instadriver",
+    description:
+      "Instadriver AKA Linkedin for Drivers. Drivers can create accounts and post their job cards as employers shortlist and recruit them. Employers create accounts where they can post vacancy ads and shortlist drivers.",
+    image: "/images/insta.png",
+    tags: ["React", "Nodejs", "Nestjs", "PostgreSQL"],
+    source: false,
+    visit: "https://instadriver.co/",
+    id: 2,
   },
 ];
 
@@ -52,15 +52,15 @@ export const TechnologiesData = [
   "Javascript",
   "Typescript",
   "Nodejs",
-  "Python",
+  // "Python",
   "HTML5",
   "CSS3",
   "SQL",
   "PostgreSQL",
   "Redux",
-"GraphQL",
+  "GraphQL",
   "Bootstrap",
-  "Ubuntu",
-  "CI/CD",
-  "Docker",
+  // "Ubuntu",
+  // "CI/CD",
+  // "Docker",
 ];
