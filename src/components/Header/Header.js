@@ -39,7 +39,7 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/HarryNdegwa" target="_blank">
+      <SocialIcons href="https://github.com/drogon98" target="_blank">
         <Icon icon="akar-icons:github-fill" style={{ fontSize: "30px" }} />
       </SocialIcons>
       {/* <SocialIcons
