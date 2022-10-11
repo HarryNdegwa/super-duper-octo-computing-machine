@@ -42,12 +42,13 @@ const Header = () => (
       <SocialIcons href="https://github.com/drogon98" target="_blank">
         <Icon icon="akar-icons:github-fill" style={{ fontSize: "30px" }} />
       </SocialIcons>
-      {/* <SocialIcons
-        href="https://www.linkedin.com/in/harryndegwa/"
+      <SocialIcons
+        href="https://www.linkedin.com/in/harrison-omari-60821124b/"
         target="_blank"
       >
         <Icon icon="brandico:linkedin-rect" style={{ fontSize: "30px" }} />
       </SocialIcons>
+      {/*
       <SocialIcons href="https://twitter.com/codeyourempire" target="_blank">
         <Icon
           icon="ant-design:twitter-circle-filled"
